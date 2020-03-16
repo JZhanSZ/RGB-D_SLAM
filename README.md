@@ -1,3 +1,3 @@
 #Dependencies:
-- ROS
+- ROS (Kinect)
 - OpenNI
