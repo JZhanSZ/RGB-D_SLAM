@@ -6,7 +6,7 @@
 - RGB Camera Clibration
 - Depth Camera Clibration
 - Frontend (Visual Odometry)
-            - features extraction
+   - features extraction
 - Backend
 - Loop Closure
 - Mapping
