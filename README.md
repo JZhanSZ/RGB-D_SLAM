@@ -1,3 +1,13 @@
+
+# Progresses:
+- RGB-D input
+
+# TODO:
+- RGB Camera Clibration
+- Depth Camera Clibration
+- Frontend
+- Backend
+
 # Dependencies:
 - ROS ([Kinect](http://wiki.ros.org/kinetic#Installation))
 - OpenNI
