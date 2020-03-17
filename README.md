@@ -5,7 +5,8 @@
 # TODO:
 - RGB Camera Clibration
 - Depth Camera Clibration
-- Frontend
+- Frontend (Visual Odometry)
+      - features extraction
 - Backend
 - Loop Closure
 - Mapping
