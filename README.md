@@ -7,6 +7,8 @@
 - Depth Camera Clibration
 - Frontend
 - Backend
+- Loop Closure
+- Mapping
 
 # Dependencies:
 - ROS ([Kinect](http://wiki.ros.org/kinetic#Installation))
