@@ -7,6 +7,7 @@
 - Depth Camera Clibration
 - Frontend (Visual Odometry)
    - features extraction
+      - ORB
 - Backend
 - Loop Closure
 - Mapping
