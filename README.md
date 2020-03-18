@@ -1,8 +1,9 @@
 
 # Progresses:
-- RGB-D input
+- RGB input
 
 # TODO:
+- Depth input
 - RGB Camera Clibration
 - Depth Camera Clibration
 - Frontend (Visual Odometry)
